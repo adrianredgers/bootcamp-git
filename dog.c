@@ -1,3 +1,4 @@
+husky
 puppy
 canine
 wolf
