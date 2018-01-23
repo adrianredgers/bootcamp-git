@@ -1,11 +1,10 @@
-warg
+husky
 puppy
 canine
 wolf
 bark
 bow wow wow
 pikachu
-charmander
 squirtle
 bulbasaur
 charmelon
