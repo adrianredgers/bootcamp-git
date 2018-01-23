@@ -1,9 +1,9 @@
-wardg
-meow
+warg
+meow meow
 roar
 lion
 tiger
-leopard
+leopard pardo
 jaguar
 cheetah
 kitty

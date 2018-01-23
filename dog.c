@@ -3,7 +3,7 @@ puppy
 canine
 wolf
 bark
-bow wow
+bow wow wow
 pikachu
 charmander
 squirtle
