@@ -5,7 +5,6 @@ wolf
 bark
 bow wow
 pikachu
-charmander
 squirtle
 bulbasaur
 charmelon

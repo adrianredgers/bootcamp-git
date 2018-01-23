@@ -3,7 +3,7 @@ meow
 roar
 lion
 tiger
-leopard
+macmac
 jaguar
 cheetah
 kitty
